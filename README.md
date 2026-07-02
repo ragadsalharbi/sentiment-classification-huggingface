@@ -101,9 +101,4 @@ Confidence: 99%
 
 ---
 
-## 👩‍💻 Author
 
-**Raghad Alharbi**
-
-- GitHub: https://github.com/ragadsalharbi
-- LinkedIn: https://www.linkedin.com/in/raghad-alharbi-38a61b326
